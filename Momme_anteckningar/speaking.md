@@ -3,7 +3,9 @@
 
 ## Momme
 
-### Problem description and cloud explain
+### Problem description and cloud explain 
+
+    [SLIDE 5]
 
     We are researching the possibility offering the ability to monitor the wellbeing of agricultural practices in third world countries. 
     
@@ -18,19 +20,22 @@
 
     Clients workspaces are hosted on a viritual environment where redundancy is taken into consideration. 
 
+    Tech giants has been providing service to their tech-needing market, companies or individual clientele. 
+
+    Companies are in demand to upgrade their business operations with technological aid, and they save on costs.
 
 
 ### Business model
 
-    A cloud service provider, offers services to customers with a variety of payment methods, such as "pay as you go" structure. 
+    [SLIDE 6]
+
+    Cloud service providers, offers services to customers with a variety of payment methods, such as "pay as you go" structure to a broad diverse pool of clients.
 
     The clientele spans from private individuals storing their vacation pictures, spanning to small, medium or bigger companies with various needs such as dashboards, platforms, storage, managing systems, etc.
 
     Potential customers can be companies that need to upgrade their business with technologies for their operations. 
 
-### Edge computing
-
-    As aforementioned a usage of cloud based computing is to remotly operate an enviorment with multiple connected client-devices. These devices are connected to the network. 
+    A usage of cloud based computing is to remotly operate an enviorment with multiple connected client-devices. These devices are connected to the network. 
 
     The devices complexity range is vast:
     1. Simple sensors providing readings to a host device where computation is done. 
@@ -38,21 +43,68 @@
 
     These devices are called edge-devices where they recide in the edge of the cloud architecture.
 
+
     Opportunities are vast, and today we explore an application...
 
-
-### Strawberry
-
-    An article published 5 august 2022 named Smart Strawberry Farming Using Edge Computing and IoT.
-
-    The article explores an opportunity to try to monitor the health of strawberries grown on a farm in Brazil, using A.I. backed by edge devices.
-
-    L1: Sensor nodes in the ground monitoring vital moisture and other feedback depending on sensors used.
+    [ERIC GOES]
 
 
-    L2: Collector nodes using computer vision software to monitor the plants during pre-harvest stage. Data is stored in a local database.
+### Considerations
 
-    L3: Remote cloud connection collecting sensor data, crop/yield information, image services, dashboards and data storage.
+    [SLIDE 9]
 
-    L4: Remote web based apps for the user applications, where feedback is provided to the farmers. Providing analytics and other useful information. 
+    Then if we take the facts that labour in the west is more costly that the technologies, the other way around can be said about the third world. Where labour is cheap and tech is still the same cost as the west. 
+
+    How can we justify the cost. The sole cost of the hardware could still be high, and if the software stack is also provided as a service to the farmers the cost increases further.
+
+    The article which argues the challenges of implementing a higher autonomous implementation with UAVs. While having the more fancier equipment came to the conclusion that it did in fact increase crop yields and that labour cost could be cut. 
+
+    Therefore, supporting the idea of a viable usage area in the west.
+
+    Can we say the same thing for the developing countries? It depends on multiple factors, so there is yet to discover a optimal implementation. As the technology leep still is behind. (e.g. tractors is still not used to the same extent as in the west). 
+
+    Can we expect that govermental bodies of third world countries to provide adequate infrastructure to the farmers?
+
+    If not, how can we as developers and engineers provide cost effective methods so cheap, that we can meet clienteles half way? 
+
+    Or should we instead implement this as a solution to other issues that can tackles?
+
+    
+### Challenges
+
+    [SLIDE 10]
+
+    1. Define your problem, and what do you need to solve it?
+    2. What solution is available to tackle your problem?
+    3. Is there an available adequate design solution?
+    4. Is the implementation complex?
+    5. With the available manpower, how knowledgeable are they to implement this?
+    6. What hardware is needed, what do we have today and how can we scale operations 7. in the future. 
+    8. Cost.
+    9. Initial installation of the hardware, setting up the ecosystem.
+    10. Testing.
+    11. Deployment.
+    12. Monitoring services. 
+    13. Maintenance.
+    14. Operational cost.
+
+    As we can see there are a lot of steps that can become challenges for the end user. Although with challenges comes opportunities. 
+
+
+
+## vad ja ska säga
+
+    Vad är och varför bryr vi oss edge?
+    Considerations, Challenges
+
+
+## tankar
+
+    HW is getting cheaper every year
+
+    West vs Third world
+
+    Advanced technologies which can provide economically competitivness has always benifited us in the west very well and providing a better opportunity to third world countries could be our way of improving the life of the rest of the world. 
+
+    As historically speaking our ways of 
 
